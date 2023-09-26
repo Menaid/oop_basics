@@ -1,0 +1,14 @@
+C:\Users\menai\source\repos\oop_basics\bin\Debug\net7.0\oop_basics.exe
+C:\Users\menai\source\repos\oop_basics\bin\Debug\net7.0\oop_basics.deps.json
+C:\Users\menai\source\repos\oop_basics\bin\Debug\net7.0\oop_basics.runtimeconfig.json
+C:\Users\menai\source\repos\oop_basics\bin\Debug\net7.0\oop_basics.dll
+C:\Users\menai\source\repos\oop_basics\bin\Debug\net7.0\oop_basics.pdb
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\oop_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\oop_basics.AssemblyInfoInputs.cache
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\oop_basics.AssemblyInfo.cs
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\oop_basics.csproj.CoreCompileInputs.cache
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\oop_basics.dll
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\refint\oop_basics.dll
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\oop_basics.pdb
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\oop_basics.genruntimeconfig.cache
+C:\Users\menai\source\repos\oop_basics\obj\Debug\net7.0\ref\oop_basics.dll
